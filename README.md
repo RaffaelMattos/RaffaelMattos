@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RaffaelMattos
-- 👀 I’m interested in Back-End Programmation
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Job or Project
+- 👀 I’m interested in Front-End Programmation
+- 🌱 I’m currently learning Front-End tecnologies
 - 📫 How to reach me ...
 
 <!---
