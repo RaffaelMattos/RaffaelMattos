@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaffaelMattos
-- 👀 I’m interested in Front-End Programmation
+- 👀 I’m interested in Front-End Programation
 - 🌱 I’m currently learning Front-End tecnologies
 - 📫 How to reach me ...
 
